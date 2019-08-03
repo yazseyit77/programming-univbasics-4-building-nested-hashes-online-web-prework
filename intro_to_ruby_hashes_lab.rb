@@ -1,6 +1,6 @@
 def base_hash
   # Remember implicit return! We're returning this new Hash _without_ the
-  base_hash = {:key => "value"}
+  base_hash = {:key => value}
   # keyword "return." Nice and neat.
 	base_hash
 end
